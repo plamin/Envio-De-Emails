@@ -15,7 +15,7 @@ O envio acontece 2 dias antes do vencimento, de forma totalmente automática.
 
 📄 Lê as faturas a partir de um arquivo faturas.json
 
-## 🛠️ Tecnologias Utilizadas
+## Tecnologias
 
 Python 3
 
